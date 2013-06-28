@@ -1,4 +1,4 @@
-Sample App AdMob for Android ([App Demo, on Google Play][2])
+Sample App AdMob ([App Demo, on Google Play][2])
 ===========
 
 Sample App AdMob is an Open Source Android that allows developers to easily create applications 
