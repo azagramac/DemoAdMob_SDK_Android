@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/DemoAdMob_SDK_Android.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/DemoAdMob_SDK_Android/master.svg)
+
 Sample App AdMob ([App Demo, on Google Play][2])
 ===========
 
