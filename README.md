@@ -5,7 +5,7 @@ Sample App AdMob is an Open Source Android that allows developers to easily crea
 with AdMob SDK. Feel free 
 to use it all you want in your Android apps provided that you cite this project and include the license in your app.
 
-You can follow the project on Twitter : [@JoseLAzagra][1]            
+You can follow the project on Twitter : [@AzagraMac][1]            
 
 Developed By
 ------------
@@ -28,5 +28,5 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
     
-[1]: http://twitter.com/josel.azagra
+[1]: http://twitter.com/azagramac
 [2]: https://play.google.com/store/apps/details?id=com.azagramac.demoadmob
