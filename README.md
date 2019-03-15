@@ -2,6 +2,10 @@
 
 Sample App AdMob ([App Demo, on Google Play][2])
 ===========
+<p align="center">
+        <img src="ic_launcher-web.png" alt="PNG" height="225px" />
+</p>
+
 
 Sample App AdMob is an Open Source Android that allows developers to easily create applications 
 with AdMob SDK. Feel free 
